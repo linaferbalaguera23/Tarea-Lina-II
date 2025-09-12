@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.Pruebas" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-09-12T23:00:32" hostname="VACANELA" time="0.065">
+  <properties/>
+  <testcase name="n 1 retorna 1" classname="tests.Pruebas" time="0.036"/>
+  <testcase name="n 2 retorna 2" classname="tests.Pruebas" time="0.003"/>
+  <testcase name="n 3 retorna 6" classname="tests.Pruebas" time="0.002"/>
+  <testcase name="n 4 retorna 24" classname="tests.Pruebas" time="0.001"/>
+  <testcase name="n 5 retorna 120" classname="tests.Pruebas" time="0.003"/>
+  <testcase name="n 6 retorna 720" classname="tests.Pruebas" time="0.001"/>
+  <testcase name="n negativo retorna 0" classname="tests.Pruebas" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
